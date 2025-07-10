@@ -1,0 +1,13 @@
+epoch:1 tag: val acc: 0.46956663408276283
+epoch:0 tag: test acc: 0.484065755208333
+epoch:2 tag: val acc: 0.4738025415444766
+epoch:0 tag: test acc: 0.47265624999999967
+epoch:3 tag: val acc: 0.4617464972303678
+epoch:4 tag: val acc: 0.4472466601498854
+epoch:5 tag: val acc: 0.45579993483219255
+epoch:6 tag: val acc: 0.4610622352557834
+epoch:7 tag: val acc: 0.4614555695200853
+epoch:8 tag: val acc: 0.4560443141088298
+epoch:9 tag: val acc: 0.45442442861797666
+epoch:10 tag: val acc: 0.4561583577712604
+epoch:11 tag: val acc: 0.4579993483219288
