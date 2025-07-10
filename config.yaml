@@ -1,0 +1,27 @@
+model:
+  protT5-xl-uniref50: "Rostlab/prot_t5_xl_uniref50"
+  protT5-xl-bfd: "Rostlab/prot_t5_xl_bfd"
+  protT5-xxl-uniref50: "Rostlab/prot_t5_xxl_uniref50"
+  protT5-xxl-bfd: "Rostlab/prot_t5_xxl_bfd"
+  protbert-bfd: "Rostlab/prot_bert_bfd"
+  protbert: "Rostlab/prot_bert"
+  protalbert: "Rostlab/prot_albert"
+  protxlnet: "Rostlab/prot_xlnet"
+  protElectra-generator-bfd: "Rostlab/prot_electra_generator_bfd"
+  protElectra-discriminator-bfd: "Rostlab/prot_electra_discriminator_bfd"
+pts:
+  - AMP
+  - TXP
+  - ABP
+  - AIP
+  - AVP
+  - ACP
+  - AFP
+  - DDV
+  - CPP
+  - CCC
+  - APP
+  - AAP
+  - AHTP
+  - PBP
+  - QSP
