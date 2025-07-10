@@ -1,0 +1,42 @@
+# IUPred2A: context-dependent prediction of protein disorder as a function of redox state and protein binding
+# Balint Meszaros, Gabor Erdos, Zsuzsanna Dosztanyi
+# Nucleic Acids Research 2018;46(W1):W329-W337.
+#
+# Prediction type: short
+# Prediction output
+# POS	RES	IUPRED2
+1	S	0.9423
+2	N	0.9299
+3	G	0.9103
+4	R	0.8823
+5	N	0.8158
+6	A	0.7388
+7	A	0.6827
+8	A	0.5992
+9	D	0.5374
+10	D	0.4513
+11	K	0.4116
+12	P	0.4245
+13	S	0.3053
+14	D	0.1844
+15	W	0.1635
+16	I	0.1635
+17	A	0.2041
+18	L	0.2531
+19	A	0.1240
+20	I	0.1205
+21	K	0.1018
+22	Q	0.0701
+23	C	0.0587
+24	C	0.0150
+25	A	0.0150
+26	N	0.0286
+27	P	0.0490
+28	P	0.0723
+29	C	0.1266
+30	K	0.1766
+31	H	0.2558
+32	V	0.2963
+33	N	0.3225
+34	C	0.4967
+35	R	0.6604
