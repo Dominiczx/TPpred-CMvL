@@ -2,7 +2,8 @@
 
 This repository scripts for running the analysis described in the paper **TPpred-CMvL: Prediction of Multi-Functional Therapeutic Peptide Using Contrast Multi-View Learning**.
 
-<img width="1272" height="871" alt="Framework-of-TPpred-CMvL" src="https://github.com/user-attachments/assets/ea2f7d80-3e6d-4848-bb49-2386eccfcc69" />
+![4a6541f28d44ba11cc525451b56bcae](https://github.com/user-attachments/assets/bfca6c11-6c53-421b-90b0-497ed80f0fee)
+
 
 
 
